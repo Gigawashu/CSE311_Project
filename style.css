@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+    height: 40px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(0, 0, 0, .5);
+    width: 100%;
+}
+.nav{
+    display: flex;
+    padding-left: 1000px;
+    padding-top: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+.form{
+    padding-left: 500px;
+    border: 10px;
+}
+.formlogin{
+    padding-left: 500px;
+    padding-top: 100px;
+    border: 10px;
+}
+button{
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+}
